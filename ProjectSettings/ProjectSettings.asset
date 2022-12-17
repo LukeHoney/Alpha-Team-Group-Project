@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Luke Honey
-  productName: Luke AI
+  companyName: Team Alpha - Hackathon Group
+  productName: 'Buzzing for Change: A VR Adventure with Bees'
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -274,7 +274,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: ddf2e76e8a1f88f46ae1e42277850b48, type: 3}
+      m_Icon: {fileID: 2800000, guid: db0bab48e0a6840488b366124f779d22, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
