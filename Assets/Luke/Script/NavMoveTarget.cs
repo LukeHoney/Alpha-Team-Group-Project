@@ -20,7 +20,7 @@ public class NavMoveTarget : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        target = GameObject.Find("Following Cube (4)(Clone)").transform;
+        target = GameObject.Find("Following Cube (1)(Clone)").transform;
         agent.SetDestination(target.position);
     }
 }
