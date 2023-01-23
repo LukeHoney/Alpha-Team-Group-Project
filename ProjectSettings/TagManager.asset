@@ -7,6 +7,7 @@ TagManager:
   - Target
   - Instantiator
   - Water
+  - SoilCollider
   layers:
   - Default
   - TransparentFX
@@ -16,8 +17,8 @@ TagManager:
   - UI
   - Interactable
   - Target
-  - 
-  - 
+  - SoilCollider
+  - Soil
   - 
   - 
   - 

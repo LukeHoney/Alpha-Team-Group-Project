@@ -6,21 +6,15 @@ public class SeedToPlant : MonoBehaviour
 {
     public GameObject seed;
     public GameObject plant;
+    public GameObject water;
 
-    // Start is called before the first frame update
-    void Start()
+    private void OnTriggerEnter(Collider other)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-    private void OnCollisionEnter(Collision collision)
-    {
-        
+        if (other.tag == "Water")
+        {
+            Debug.Log("Water and seed");
+            Plant();
+        }
     }
     public void Plant()
     {
