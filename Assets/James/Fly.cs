@@ -6,23 +6,23 @@ using UnityEngine.InputSystem;
 public class Fly : MonoBehaviour
 {
     private Vector3 thrustDirection;
-    private Vector3 gravityDirection;
+   // private Vector3 gravityDirection;
 
-    public float currentFallSpeed;
-    public float gravityAccelerationRate;
-    public float gravityMaxSpeed;
+    //public float currentFallSpeed;
+    //public float gravityAccelerationRate;
+    //public float gravityMaxSpeed;
 
     public float CurrentThrustPower;
     public float thrustAccelerationRate;
     public float thrustMaxSpeed;
 
     public InputActionReference thrustAction1;
-    public InputActionReference thrustAction2;
+   // public InputActionReference thrustAction2;
     // Start is called before the first frame update
     void Start()
     {
         thrustDirection = Vector3.up;
-        gravityDirection = Vector3.down;
+       // gravityDirection = Vector3.down;
 
     }
 
@@ -37,13 +37,13 @@ public class Fly : MonoBehaviour
 
             transform.position += thrustDirection * CurrentThrustPower * Time.deltaTime;
         }
-        if (thrustAction2.action.IsPressed())
-        {
-            if (transform.position.y > 1f)
-                currentFallSpeed += gravityAccelerationRate * Time.deltaTime;
+        //if (thrustAction2.action.IsPressed())
+        //{
+        //    if (transform.position.y > 1f)
+        //        currentFallSpeed += gravityAccelerationRate * Time.deltaTime;
 
-            transform.position += gravityDirection * currentFallSpeed * Time.deltaTime;
-        }
+        //    transform.position += gravityDirection * currentFallSpeed * Time.deltaTime;
+        //}
     }
     private void CalculateThrust()
     {
