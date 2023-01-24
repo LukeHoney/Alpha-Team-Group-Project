@@ -8,6 +8,8 @@ TagManager:
   - Instantiator
   - Water
   - SoilCollider
+  - PlantArea
+  - Sissors
   layers:
   - Default
   - TransparentFX
