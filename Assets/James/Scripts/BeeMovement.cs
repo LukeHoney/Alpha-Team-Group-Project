@@ -4,33 +4,9 @@ using UnityEngine;
 
 public class BeeMovement : MonoBehaviour
 {
-    //    public float speed;
-    //    public float changeDirectionInterval;
-    //    private float timeSinceLastDirectionChange;
-    //    private Vector3 direction;
-
-    //    void Start()
-    //    {
-    //        timeSinceLastDirectionChange = 0f;
-    //        direction = new Vector3(Random.Range(-1f, 1f), Random.Range(-1f, 1f), 0f).normalized;
-    //    }
-
-    //    void Update()
-    //    {
-    //        timeSinceLastDirectionChange += Time.deltaTime;
-
-    //        if (timeSinceLastDirectionChange >= changeDirectionInterval)
-    //        {
-    //            direction = new Vector3(Random.Range(-1f, 1f), Random.Range(-1f, 1f), 0f).normalized;
-    //            timeSinceLastDirectionChange = 0f;
-    //        }
-
-    //        transform.position += direction * speed * Time.deltaTime;
-    //    }
-    //}
     public float speed = 10.0f;
-    public Vector3 minBoundary = new Vector3(-5, 0, -5);
-    public Vector3 maxBoundary = new Vector3(5, 0, 5);
+    public Vector3 minBoundary = new Vector3(-50, 10, -50);
+    public Vector3 maxBoundary = new Vector3(50, 40, 50);
     private Vector3 targetPosition;
 
     void Start()
