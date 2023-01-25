@@ -11,7 +11,6 @@ public class BeeMovement : MonoBehaviour
 
     void Start()
     {
-        // Set an initial random target position
         SetRandomTargetPosition();
     }
 
@@ -20,16 +19,15 @@ public class BeeMovement : MonoBehaviour
         // Move towards the target position
         transform.position = Vector3.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
 
-        // Look at the target position
         transform.LookAt(targetPosition);
 
-        // If we've reached the target position, set a new one
+        // When reached the target position, set a new one
         if (transform.position == targetPosition)
         {
             SetRandomTargetPosition();
         }
 
-        // Ensure the GameObject stays within the set boundaries
+        // Ensure the Bee stays within the area
         transform.position = new Vector3(
             Mathf.Clamp(transform.position.x, minBoundary.x, maxBoundary.x),
             Mathf.Clamp(transform.position.y, minBoundary.y, maxBoundary.y),
@@ -39,7 +37,7 @@ public class BeeMovement : MonoBehaviour
 
     private void SetRandomTargetPosition()
     {
-        // Generate a random position within the set boundaries
+        // Generate a random position within the boundaries
         targetPosition = new Vector3(
             Random.Range(minBoundary.x, maxBoundary.x),
             Random.Range(minBoundary.y, maxBoundary.y),
