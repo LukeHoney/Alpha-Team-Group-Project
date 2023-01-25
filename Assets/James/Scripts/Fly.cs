@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -18,9 +19,12 @@ public class Fly : MonoBehaviour
 
     public InputActionReference thrustAction1;
     public InputActionReference thrustAction2;
+
+
     // Start is called before the first frame update
     void Start()
     {
+
         thrustDirection = Vector3.up;
         gravityDirection = Vector3.down;
 
@@ -57,4 +61,9 @@ public class Fly : MonoBehaviour
         currentFallSpeed -= gravityAccelerationRate * Time.deltaTime;
         transform.position -= gravityDirection * currentFallSpeed * Time.deltaTime;
     }
+
+    //internal void SetActive(bool v)
+    //{
+    //    throw new NotImplementedException();
+    //}
 }
