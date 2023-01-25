@@ -1073,6 +1073,45 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "Water",
+            "id": "5b9df924-3c73-46d2-aee2-516de3c03a0d",
+            "actions": [
+                {
+                    "name": "Thrust",
+                    "type": "Button",
+                    "id": "29c20f6e-bac5-4393-a0f4-cc65a3cf783d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d154fcf6-2adc-4294-8552-1a6d6505c57f",
+                    "path": "<XRController>{RightHand}/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Thrust",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a8d8c19a-c248-4b5d-87f5-e1a2d813e2cd",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Thrust",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [
