@@ -39,7 +39,7 @@ public IEnumerator Honey()
 {
     if (inTheHive == true) // This is a check to see if the bool is true
     {
-        if (playerScoreScript.playerScore <= 3)
+        if (playerScoreScript.playerScore >= 3)
         {
             playerScoreScript = GameObject.Find("PlayerModel").GetComponent<Points>();
             playerScoreScript.playerScore = 0;
