@@ -2,9 +2,9 @@
 
 # :honeybee: Welcome to Buzzing for Change: A VR Adventure with Bees!
 
-## :tulip:
+## :tulip: Planting simulator
 
-## :seedling:
+## :seedling: Bee adventure
 
 ## :paintbrush: Created by 
 ### Luke Honey
