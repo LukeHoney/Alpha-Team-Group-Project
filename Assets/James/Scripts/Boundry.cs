@@ -7,21 +7,26 @@ public class Boundry : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
-    private void OnCollisionEnter(Collision collision)
+    public class TeleportOnCollision : MonoBehaviour
     {
-        if (collision.gameObject.CompareTag("Wall"))
+        void OnTriggerEnter(Collider other)
         {
-            Vector3 oppositeDirection = -collision.contacts[0].normal;
-            transform.position += oppositeDirection;
+            if (other.tag == "Wall")
+            {
+                Debug.Log("Hit Wall");
+
+                Vector3 collisionDirection = other.transform.position - transform.position;
+                Vector3 newPosition = transform.position - (collisionDirection.normalized * 1);
+                transform.position = newPosition;
+            }
         }
     }
-
 }

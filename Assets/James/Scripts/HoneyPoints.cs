@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class HoneyPoints : MonoBehaviour
+public class HoneyPoints : MonoBehaviour //This is a script to calculate how much honey has been collected while playing audio when specific milestones are met.
 {
 public Points playerScoreScript;
 public float honeyscore;

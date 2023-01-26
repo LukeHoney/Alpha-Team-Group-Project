@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class Fly : MonoBehaviour
+public class Fly : MonoBehaviour //This is a script to make the player fly around the level
 {
     private Vector3 thrustDirection;
     private Vector3 gravityDirection;
@@ -33,7 +33,7 @@ public class Fly : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (thrustAction1.action.IsPressed())
+        if (thrustAction1.action.IsPressed()) //This makes the player move upwards
         {
             Debug.Log("Pressed");
 
@@ -41,7 +41,7 @@ public class Fly : MonoBehaviour
 
             transform.position += thrustDirection * CurrentThrustPower * Time.deltaTime;
         }
-        if (thrustAction2.action.IsPressed())
+        if (thrustAction2.action.IsPressed()) //This makes the player move downwards
         {
             if (transform.position.y > 1f)
             {
@@ -51,12 +51,12 @@ public class Fly : MonoBehaviour
             }    
             }
     }
-    private void CalculateThrust()
+    private void CalculateThrust() //This calculates the speed to move upwards
     {
         CurrentThrustPower += thrustAccelerationRate * Time.deltaTime;
         transform.position += thrustDirection * CurrentThrustPower * Time.deltaTime;
     }
-    private void CalculateFall()
+    private void CalculateFall() //This calculates the speed to move downwards
     {
         currentFallSpeed -= gravityAccelerationRate * Time.deltaTime;
         transform.position -= gravityDirection * currentFallSpeed * Time.deltaTime;

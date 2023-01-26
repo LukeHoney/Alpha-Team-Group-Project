@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class Points : MonoBehaviour
+public class Points : MonoBehaviour //This is a script to present the points the player has collected on the users hud
 {
     public float playerScore;
     public float honey;
@@ -35,7 +35,7 @@ public class Points : MonoBehaviour
         {
             scoreText.text = "Flowers Harvested " + playerScore.ToString() + " Return To Hive";
         }
-        honeyText.text = "Honey Made " + honey.ToString();
+        honeyText.text = "Land Up Here Honey Made " + honey.ToString();
 
 
         }
