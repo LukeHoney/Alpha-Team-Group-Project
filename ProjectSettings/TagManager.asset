@@ -13,6 +13,7 @@ TagManager:
   - Wall
   - Hive
   - PC
+  - Bee
   layers:
   - Default
   - TransparentFX
