@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BeeMovement : MonoBehaviour
+public class BeeMovement : MonoBehaviour //This is a script to allow the bees to fly randomly around the level
 {
     public float speed = 10.0f;
     public Vector3 minBoundary = new Vector3(-50, 10, -50);
@@ -31,8 +31,7 @@ public class BeeMovement : MonoBehaviour
         transform.position = new Vector3(
             Mathf.Clamp(transform.position.x, minBoundary.x, maxBoundary.x),
             Mathf.Clamp(transform.position.y, minBoundary.y, maxBoundary.y),
-            Mathf.Clamp(transform.position.z, minBoundary.z, maxBoundary.z)
-        );
+            Mathf.Clamp(transform.position.z, minBoundary.z, maxBoundary.z));
     }
 
     private void SetRandomTargetPosition()
@@ -41,7 +40,6 @@ public class BeeMovement : MonoBehaviour
         targetPosition = new Vector3(
             Random.Range(minBoundary.x, maxBoundary.x),
             Random.Range(minBoundary.y, maxBoundary.y),
-            Random.Range(minBoundary.z, maxBoundary.z)
-        );
+            Random.Range(minBoundary.z, maxBoundary.z));
     }
 }

@@ -3,21 +3,27 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class TutorialScreen : MonoBehaviour
+public class TutorialScreen : MonoBehaviour //This is a script to make the tutorial scrren appear at the start of the scene then disapear when the button is pressed
 {
-    public Canvas tutorialCanvas;
+    public GameObject tutorialCanvas;
     public Button startButton;
     public AudioSource startAudioSource;
+    public Fly flyingScript;
 
-    private void Start()
+    void Start()
     {
-        tutorialCanvas.gameObject.SetActive(true);
-        startButton.onClick.AddListener(StartGame);
+        tutorialCanvas.SetActive(true);
+        Button btn = startButton.GetComponent<Button>();
+        btn.onClick.AddListener(StartGame);
+        
     }
 
-    private void StartGame()
+    public void StartGame()
     {
-        tutorialCanvas.gameObject.SetActive(false);
-        startAudioSource.gameObject.SetActive(true);
+        Debug.Log("Button Works");
+
+        tutorialCanvas.SetActive(false);
+        startAudioSource.Play();
+        flyingScript.enabled = true;
     }
 }
