@@ -9,6 +9,8 @@ public class SeedToPlant : MonoBehaviour
     public GameObject plantAudio;
     public GameObject beeLocation;
 
+    public Makechild makeChildScript;
+
     public bool plantArea;
 
     private void Start()
@@ -16,6 +18,7 @@ public class SeedToPlant : MonoBehaviour
         plantArea = false;
         plantAudio.SetActive(false);
         beeLocation.SetActive(false);
+        makeChildScript.enabled = false;
     }
     
     private void OnTriggerEnter(Collider other)
@@ -49,5 +52,6 @@ public class SeedToPlant : MonoBehaviour
         seed.SetActive(false);
         plantAudio.SetActive(true);
         beeLocation.SetActive(true);
+        makeChildScript.enabled = true;
     }
 }

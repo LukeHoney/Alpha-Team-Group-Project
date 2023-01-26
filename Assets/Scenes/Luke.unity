@@ -10240,6 +10240,7 @@ MonoBehaviour:
   plant: {fileID: 212706331}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!135 &291741843
 SphereCollider:
@@ -30297,12 +30298,6 @@ Transform:
   m_Father: {fileID: 315805234}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &856246927 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 92235031485009771, guid: 2f79f372d98e3ed44b028413bb6ad5c1,
-    type: 3}
-  m_PrefabInstance: {fileID: 1372483616}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &857051384
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32499,6 +32494,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 179551817}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &924823596 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 92235031485009775, guid: 2f79f372d98e3ed44b028413bb6ad5c1,
+    type: 3}
+  m_PrefabInstance: {fileID: 1372483616}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &925386257
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33496,6 +33497,7 @@ MonoBehaviour:
   plant: {fileID: 212706331}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!135 &953086840
 SphereCollider:
@@ -34883,6 +34885,7 @@ MonoBehaviour:
   plant: {fileID: 861465359411939850}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!135 &978704207
 SphereCollider:
@@ -40225,6 +40228,7 @@ MonoBehaviour:
   plant: {fileID: 861465359411939850}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!135 &1106481647
 SphereCollider:
@@ -47086,6 +47090,7 @@ MonoBehaviour:
   plant: {fileID: 212706331}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!135 &1290821502
 SphereCollider:
@@ -47341,6 +47346,7 @@ MonoBehaviour:
   plant: {fileID: 212706331}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!135 &1294566195
 SphereCollider:
@@ -50073,12 +50079,12 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 1943054046}
+    m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 92235031485009771, guid: 2f79f372d98e3ed44b028413bb6ad5c1,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 92235031485009771, guid: 2f79f372d98e3ed44b028413bb6ad5c1,
         type: 3}
@@ -50103,17 +50109,17 @@ PrefabInstance:
     - target: {fileID: 92235031485009771, guid: 2f79f372d98e3ed44b028413bb6ad5c1,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 92235031485009771, guid: 2f79f372d98e3ed44b028413bb6ad5c1,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 92235031485009771, guid: 2f79f372d98e3ed44b028413bb6ad5c1,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 92235031485009771, guid: 2f79f372d98e3ed44b028413bb6ad5c1,
         type: 3}
@@ -58861,6 +58867,7 @@ MonoBehaviour:
   plant: {fileID: 861465359411939850}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!135 &1638328517
 SphereCollider:
@@ -61448,6 +61455,7 @@ MonoBehaviour:
   plant: {fileID: 212706331}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!135 &1700769251
 SphereCollider:
@@ -66784,6 +66792,7 @@ MonoBehaviour:
   plant: {fileID: 861465359411939850}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!135 &1836036288
 SphereCollider:
@@ -71793,6 +71802,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1943054046}
   - component: {fileID: 1943054047}
+  - component: {fileID: 1943054048}
   m_Layer: 0
   m_Name: WaypointsPath1
   m_TagString: Untagged
@@ -71816,7 +71826,6 @@ Transform:
   - {fileID: 509413695}
   - {fileID: 619600438}
   - {fileID: 1202690055}
-  - {fileID: 856246927}
   m_Father: {fileID: 0}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -71832,6 +71841,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b515cbf36fd34c48893ff09f240eafc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1943054048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1943054045}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac063d94f094d7d46a92971b2c458753, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  newWaypoint: {fileID: 924823596}
 --- !u!4 &1944976340 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2101407794647646455, guid: 3b676999c3080f246babb540a35682f5,
@@ -78979,6 +79001,7 @@ MonoBehaviour:
   plant: {fileID: 861465359411939850}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!135 &2131531190
 SphereCollider:
@@ -81303,6 +81326,7 @@ MonoBehaviour:
   plant: {fileID: 861465359411939850}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!4 &543450651628865024
 Transform:
@@ -86735,6 +86759,7 @@ MonoBehaviour:
   plant: {fileID: 2116120330}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!4 &3695651046119823516
 Transform:
@@ -87058,6 +87083,7 @@ MonoBehaviour:
   plant: {fileID: 2116120330}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!1 &4161043762339166604
 GameObject:
@@ -87707,6 +87733,7 @@ MonoBehaviour:
   plant: {fileID: 2116120330}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!1 &5083615056150340004
 GameObject:
@@ -89541,6 +89568,7 @@ MonoBehaviour:
   plant: {fileID: 2116120330}
   plantAudio: {fileID: 313891933}
   beeLocation: {fileID: 811322610}
+  makeChildScript: {fileID: 1943054048}
   plantArea: 0
 --- !u!4 &6070238653849119751
 Transform:
