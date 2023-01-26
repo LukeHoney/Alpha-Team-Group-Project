@@ -200,6 +200,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -230,9 +235,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -370,6 +380,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -452,6 +467,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -568,9 +588,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -1234,6 +1259,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -1316,6 +1346,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -1513,9 +1548,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -1729,6 +1769,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -1983,6 +2028,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -2065,6 +2115,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -2279,9 +2334,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -2515,9 +2575,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -2781,9 +2846,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -2866,9 +2936,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -2951,9 +3026,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -3036,9 +3116,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -3259,6 +3344,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -3289,9 +3379,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -3374,9 +3469,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -3514,6 +3614,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -3642,9 +3747,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -3811,9 +3921,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -4266,6 +4381,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -4434,6 +4554,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -4516,6 +4641,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -4628,9 +4758,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -4849,6 +4984,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -5085,6 +5225,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -5635,6 +5780,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -5665,9 +5815,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -5805,6 +5960,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -5835,9 +5995,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -5920,9 +6085,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -6005,9 +6175,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -6155,6 +6330,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -6185,9 +6365,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -6349,7 +6534,6 @@ GameObject:
   - component: {fileID: 273567469}
   - component: {fileID: 273567468}
   - component: {fileID: 273567474}
-  - component: {fileID: 273567473}
   m_Layer: 5
   m_Name: Canvas2
   m_TagString: Untagged
@@ -6459,102 +6643,6 @@ RectTransform:
   m_AnchoredPosition: {x: 10, y: 18}
   m_SizeDelta: {x: 1920, y: 1600}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!82 &273567473
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 273567467}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 52a7a3d99dc958c40b6c233d52f91c01, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
 --- !u!114 &273567474
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6569,7 +6657,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tutorialCanvas: {fileID: 273567467}
   startButton: {fileID: 2019009357}
-  startAudioSource: {fileID: 273567473}
+  startAudioSource: {fileID: 1006574622}
   flyingScript: {fileID: 1564158703123636860}
 --- !u!1001 &276390584
 PrefabInstance:
@@ -6590,9 +6678,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -7577,6 +7670,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -7607,9 +7705,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -7747,6 +7850,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -7777,9 +7885,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -7917,6 +8030,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -8030,9 +8148,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -8170,6 +8293,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -8284,9 +8412,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -8424,6 +8557,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -8454,9 +8592,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -8591,6 +8734,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -9229,9 +9377,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -9536,6 +9689,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -9779,6 +9937,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -9809,9 +9972,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -9988,9 +10156,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -10392,6 +10565,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -10474,6 +10652,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -11049,9 +11232,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -11400,9 +11588,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -11608,9 +11801,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -11841,6 +12039,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -11950,9 +12153,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -12256,6 +12464,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -12384,9 +12597,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -12665,9 +12883,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -12884,6 +13107,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -12993,9 +13221,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -13255,9 +13488,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -13350,9 +13588,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -13435,9 +13678,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -13520,9 +13768,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -14004,6 +14257,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -14117,9 +14375,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -14202,9 +14465,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -14287,9 +14555,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -14518,6 +14791,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -15023,6 +15301,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -15306,6 +15589,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -15723,6 +16011,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -15832,9 +16125,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -15927,9 +16225,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -16074,6 +16377,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -16289,9 +16597,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -16374,9 +16687,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -16594,6 +16912,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -16874,9 +17197,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -16959,9 +17287,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -17106,6 +17439,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -17374,9 +17712,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -17524,6 +17867,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -17554,9 +17902,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -17691,6 +18044,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -18037,9 +18395,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -18122,9 +18485,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -18651,9 +19019,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -18795,9 +19168,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -18932,6 +19310,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -19129,9 +19512,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -19677,6 +20065,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -19845,6 +20238,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -19927,6 +20325,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -20194,9 +20597,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -21133,9 +21541,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -21273,6 +21686,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -21367,6 +21785,134 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 900004869}
   m_Mesh: {fileID: 3359138182758997695, guid: ef3c69506263dc74f99ae76943c6dab1, type: 3}
+--- !u!1 &901351245
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 901351247}
+  - component: {fileID: 901351246}
+  m_Layer: 0
+  m_Name: BeePart2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &901351246
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 901351245}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 26ba165f77bdafc45b05c0ee6fd5c880, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &901351247
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 901351245}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10.363638, y: 17.940834, z: -21.418358}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &906303203
 GameObject:
   m_ObjectHideFlags: 0
@@ -21631,9 +22177,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -21781,6 +22332,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -21890,9 +22446,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -22040,6 +22601,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -22122,6 +22688,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -23159,9 +23730,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -23244,9 +23820,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -23510,9 +24091,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -23647,6 +24233,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -23909,6 +24500,134 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &1006574621
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1006574623}
+  - component: {fileID: 1006574622}
+  m_Layer: 0
+  m_Name: IntroSound
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1006574622
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1006574621}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 52a7a3d99dc958c40b6c233d52f91c01, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1006574623
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1006574621}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10.363638, y: 17.940834, z: -21.418358}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1016750735
 GameObject:
   m_ObjectHideFlags: 0
@@ -24159,6 +24878,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -24189,9 +24913,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -24618,9 +25347,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -24758,6 +25492,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -24788,9 +25527,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -24966,9 +25710,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -25051,9 +25800,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -25136,9 +25890,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -25286,6 +26045,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -25316,9 +26080,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -25539,6 +26308,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -25621,6 +26395,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -25789,6 +26568,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -26086,9 +26870,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -26233,6 +27022,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -26572,6 +27366,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -26654,6 +27453,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -26785,9 +27589,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -26968,9 +27777,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -27132,9 +27946,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -27217,9 +28036,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -27357,6 +28181,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -27470,9 +28299,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -27620,6 +28454,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -27650,9 +28489,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -27735,9 +28579,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -27982,6 +28831,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -28147,6 +29001,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -28318,6 +29177,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -28431,9 +29295,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -28571,6 +29440,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -28656,6 +29530,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -28686,9 +29565,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -28771,9 +29655,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -28866,9 +29755,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -28951,9 +29845,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -29115,9 +30014,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -29633,6 +30537,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -29830,9 +30739,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -29915,9 +30829,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -30139,6 +31058,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -30253,9 +31177,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -30476,6 +31405,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -30589,9 +31523,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -30729,6 +31668,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -30759,9 +31703,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -30992,6 +31941,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -31022,9 +31976,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -31107,9 +32066,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -31247,6 +32211,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -31332,6 +32301,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -31414,6 +32388,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -31530,9 +32509,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -31670,6 +32654,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -31700,9 +32689,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -31840,6 +32834,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -31922,6 +32921,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -32161,6 +33165,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -32191,9 +33200,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -32370,9 +33384,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -32455,9 +33474,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -32550,9 +33574,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -32797,9 +33826,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -32937,6 +33971,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -33022,6 +34061,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -33052,9 +34096,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -33192,6 +34241,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -33222,9 +34276,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -33694,6 +34753,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -33724,9 +34788,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -33809,9 +34878,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -34042,6 +35116,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -34072,9 +35151,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -34222,6 +35306,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -34291,6 +35380,134 @@ Transform:
   - {fileID: 1576957444}
   m_Father: {fileID: 0}
   m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1511509064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1511509066}
+  - component: {fileID: 1511509065}
+  m_Layer: 0
+  m_Name: BeePart4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1511509065
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1511509064}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 2b09caa93f5ce304c8c2b86b4ddc7df6, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1511509066
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1511509064}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10.363638, y: 17.940834, z: -21.418358}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1512851166
 PrefabInstance:
@@ -34363,6 +35580,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -34451,6 +35673,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -34481,9 +35708,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -34576,9 +35808,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -34713,6 +35950,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -35325,6 +36567,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -35407,6 +36654,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -35495,6 +36747,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -35577,6 +36834,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -35745,6 +37007,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -36008,9 +37275,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -36074,6 +37346,134 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1581797374}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1583362078
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1583362080}
+  - component: {fileID: 1583362079}
+  m_Layer: 0
+  m_Name: BeePart3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1583362079
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1583362078}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: e38786d3f09598c4099319c92ac4dc3b, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1583362080
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1583362078}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10.363638, y: 17.940834, z: -21.418358}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1586337791
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36093,9 +37493,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -36178,9 +37583,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -36408,6 +37818,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -36647,6 +38062,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -36677,9 +38097,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -36814,6 +38239,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -37083,6 +38513,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -37113,9 +38548,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -37253,6 +38693,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -37335,6 +38780,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -37502,6 +38952,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -37584,6 +39039,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -37753,6 +39213,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -38307,9 +39772,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -38392,9 +39862,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -38529,6 +40004,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -38697,6 +40177,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -39514,9 +40999,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -39654,6 +41144,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -39736,6 +41231,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -39852,9 +41352,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -39937,9 +41442,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -40022,9 +41532,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -40107,9 +41622,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -40247,6 +41767,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -40332,6 +41857,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -40362,9 +41892,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -40585,6 +42120,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -40670,6 +42210,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -40700,9 +42245,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -40840,6 +42390,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -40953,9 +42508,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -41130,6 +42690,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -41298,6 +42863,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -41383,6 +42953,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -41413,9 +42988,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -41498,9 +43078,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -41718,6 +43303,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -42055,6 +43645,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -42085,9 +43680,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -42180,9 +43780,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -42317,6 +43922,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -42803,6 +44413,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -42916,9 +44531,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -43053,6 +44673,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -43237,9 +44862,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -43322,9 +44952,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -43462,6 +45097,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -43547,6 +45187,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -43577,9 +45222,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -43717,6 +45367,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -43739,7 +45394,6 @@ GameObject:
   - component: {fileID: 1873748399}
   - component: {fileID: 1873748404}
   - component: {fileID: 1873748403}
-  - component: {fileID: 1873748402}
   - component: {fileID: 1873748401}
   - component: {fileID: 1873748400}
   - component: {fileID: 1873748405}
@@ -43793,22 +45447,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerScore: 0
   scoreText: {fileID: 193575826}
---- !u!54 &1873748402
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1873748398}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 0
-  m_IsKinematic: 1
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!23 &1873748403
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -44176,6 +45814,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -44206,9 +45849,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -44346,6 +45994,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -44376,9 +46029,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -44461,9 +46119,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -44546,9 +46209,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -44696,6 +46364,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -44778,6 +46451,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -45111,6 +46789,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -45388,9 +47071,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -45528,6 +47216,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -45558,9 +47251,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -46174,9 +47872,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -46788,6 +48491,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -46873,6 +48581,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -46903,9 +48616,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -46998,9 +48716,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -47093,9 +48816,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -47240,6 +48968,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -47495,6 +49228,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -47525,9 +49263,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -47610,9 +49353,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -48083,6 +49831,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
       objectReference: {fileID: 1873748401}
@@ -48113,9 +49866,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -48260,6 +50018,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -48444,9 +50207,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -48591,6 +50359,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -48928,6 +50701,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -50857,10 +52635,8 @@ GameObject:
   - component: {fileID: 1564158703123636854}
   - component: {fileID: 1564158703123636853}
   - component: {fileID: 1564158703123636855}
-  - component: {fileID: 1564158703123636849}
   - component: {fileID: 559262314}
   - component: {fileID: 1564158703123636856}
-  - component: {fileID: 1564158703123636859}
   - component: {fileID: 1564158703123636860}
   m_Layer: 3
   m_Name: XR Origin
@@ -50869,24 +52645,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!143 &1564158703123636849
-CharacterController:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1564158703123636847}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 0
-  serializedVersion: 2
-  m_Height: 1.7
-  m_Radius: 0.2
-  m_SlopeLimit: 45
-  m_StepOffset: 0.3
-  m_SkinWidth: 0.08
-  m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 1, z: 0}
 --- !u!114 &1564158703123636852
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51094,22 +52852,6 @@ MonoBehaviour:
       m_Flags: 0
     m_Reference: {fileID: 187161793506945269, guid: c348712bda248c246b8c49b3db54643f,
       type: 3}
---- !u!208 &1564158703123636859
-NavMeshObstacle:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1564158703123636847}
-  m_Enabled: 0
-  serializedVersion: 3
-  m_Shape: 0
-  m_Extents: {x: 0.5, y: 1, z: 0.5}
-  m_MoveThreshold: 0.1
-  m_Carve: 1
-  m_CarveOnlyStationary: 1
-  m_Center: {x: 0, y: 0, z: 0}
-  m_TimeToStationary: 0.5
 --- !u!114 &1564158703123636860
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51122,10 +52864,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c798ef491abd55640988ae6746972c48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentFallSpeed: 5
+  currentFallSpeed: 2.5
   gravityAccelerationRate: 1
   gravityMaxSpeed: 1
-  CurrentThrustPower: 5
+  CurrentThrustPower: 2.5
   thrustAccelerationRate: 1
   thrustMaxSpeed: 1
   thrustAction1: {fileID: 83097790271614945, guid: c348712bda248c246b8c49b3db54643f,
@@ -51143,7 +52885,6 @@ GameObject:
   - component: {fileID: 1564158703386619082}
   - component: {fileID: 1564158703386619094}
   - component: {fileID: 7363948775097639224}
-  - component: {fileID: 7363948775097639225}
   m_Layer: 0
   m_Name: LeftHand Controller
   m_TagString: Untagged
@@ -51470,7 +53211,6 @@ GameObject:
   - component: {fileID: 1564158703890154528}
   - component: {fileID: 1564158703890154540}
   - component: {fileID: 1564158703890154542}
-  - component: {fileID: 1564158703890154543}
   m_Layer: 0
   m_Name: RightHand Controller
   m_TagString: Untagged
@@ -51734,19 +53474,6 @@ MonoBehaviour:
   m_PlayHapticsOnHoverCanceled: 0
   m_HapticHoverCancelIntensity: 0
   m_HapticHoverCancelDuration: 0
---- !u!135 &1564158703890154543
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1564158703890154535}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.06891724
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1564158704127972345
 GameObject:
   m_ObjectHideFlags: 0
@@ -52379,9 +54106,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
+      propertyPath: flowerscore
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879798943814676069, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
+        type: 3}
       propertyPath: playerScoreScript
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1873748401}
     - target: {fileID: 6879798943814676070, guid: b52ecfe42122d53439ac3b1b2dc44d1b,
         type: 3}
       propertyPath: m_RootOrder
@@ -52618,6 +54350,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
+        type: 3}
+      propertyPath: flowerscore
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 2021572887652898584, guid: b452d82787e8aea4bb101e573d503a3c,
         type: 3}
@@ -55439,19 +57176,6 @@ MonoBehaviour:
   m_PlayHapticsOnHoverCanceled: 0
   m_HapticHoverCancelIntensity: 0
   m_HapticHoverCancelDuration: 0
---- !u!135 &7363948775097639225
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1564158703386619081}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.06891724
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &7490208858846532409
 MeshFilter:
   m_ObjectHideFlags: 0

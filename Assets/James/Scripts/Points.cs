@@ -20,7 +20,28 @@ public class Points : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        scoreText.text = "Flowers harvested " + playerScore.ToString();
+        if (playerScore < 3)
+        {
+            scoreText.text = "Flowers harvested " + playerScore.ToString();
+        }
+        else if (playerScore >= 3)
+        {
+            scoreText.text = "Flowers Harvested " + playerScore.ToString() + " Return To Hive";
+        }
     }
-    
+    public void OnTriggernEnter(Collider other)
+    {
+        if (other.tag == "Hive")
+        {
+            Debug.Log("Hit Hive");
+
+            if (playerScore >=3)
+            {
+                playerScore = 0;
+            }
+
+        }
+    }
+
+
 }
