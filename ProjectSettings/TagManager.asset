@@ -10,6 +10,9 @@ TagManager:
   - SoilCollider
   - PlantArea
   - Sissors
+  - Wall
+  - Hive
+  - PC
   layers:
   - Default
   - TransparentFX

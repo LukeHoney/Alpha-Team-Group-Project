@@ -20,20 +20,7 @@ public class FlowerPoint : MonoBehaviour
     {
 
     }
-    //public void OnTriggerEnter(Collider other)
-    //{
-    //    if (playerScoreScript.playerScore <= 3)
-    //    {
-    //        playerScoreScript = GameObject.Find("PlayerModel").GetComponent<Points>();
-    //        playerScoreScript.playerScore = playerScoreScript.playerScore + flowerscore;
-    //        yield return new WaitForSeconds(1f);
-    //        Debug.Log(playerScoreScript.playerScore);
-    //    }
-        //if (playerScoreScript.playerScore <= 3)
-        //{
-
-        //}
-    
+   
     public void OnTriggerEnter(Collider other) // This command triggers an event when an object touchs the Flower Cell
     {
         if (other.tag == "PC") // This command checks if the object that touchs the Flower Cell is the "PC"

@@ -2,19 +2,26 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Points : MonoBehaviour
 {
     public float playerScore;
+    public float honey;
+
+
 
     public TMP_Text scoreText;
+    public TMP_Text honeyText;
     // Start is called before the first frame update
     void Start()
     {
         playerScore = 0;
+        honey = 0;
 
         scoreText.text = "Flowers Harvested " + playerScore.ToString();
+        honeyText.text = "Honey Made " +honey.ToString();
     }
 
     // Update is called once per frame
@@ -28,20 +35,8 @@ public class Points : MonoBehaviour
         {
             scoreText.text = "Flowers Harvested " + playerScore.ToString() + " Return To Hive";
         }
-    }
-    public void OnTriggernEnter(Collider other)
-    {
-        if (other.tag == "Hive")
-        {
-            Debug.Log("Hit Hive");
+        honeyText.text = "Honey Made " + honey.ToString();
 
-            if (playerScore >=3)
-            {
-                playerScore = 0;
-            }
 
         }
     }
-
-
-}
