@@ -24,7 +24,7 @@ public class WaterEffect : MonoBehaviour
         if (other.tag == "PlantArea")
         {
             plantArea = true;
-            Debug.Log("In water area");
+            //Debug.Log("In water area");
         }
     }
 

@@ -2,12 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SeedToPlant : MonoBehaviour
+public class SeedToMarigold : MonoBehaviour
 {
     public GameObject seed;
     public GameObject plant;
     public GameObject plantAudio;
-    public GameObject beeLocation;
 
     public bool plantArea;
 
@@ -15,23 +14,22 @@ public class SeedToPlant : MonoBehaviour
     {
         plantArea = false;
         plantAudio.SetActive(false);
-        beeLocation.SetActive(false);
     }
-    
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.tag == "PlantArea")
         {
             plantArea = true;
-            //Debug.Log("In plant area");
+            Debug.Log("In plant area");
         }
-        
+
 
         if (other.tag == "Water")
         {
             if (plantArea == true)
             {
-                //Debug.Log("Water and seed");
+                Debug.Log("Water and seed");
                 Plant();
             }
         }
@@ -48,6 +46,6 @@ public class SeedToPlant : MonoBehaviour
         plant.SetActive(true);
         seed.SetActive(false);
         plantAudio.SetActive(true);
-        beeLocation.SetActive(true);
     }
+
 }

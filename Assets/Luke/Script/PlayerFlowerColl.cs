@@ -19,7 +19,7 @@ public class PlayerFlowerColl : MonoBehaviour
         if (other.tag == "Player")
         {
             plantNarration.SetActive(true);
-            Debug.Log("flower talk");
+            //Debug.Log("flower talk");
         }
     }
 }
