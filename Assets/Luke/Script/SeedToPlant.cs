@@ -10,6 +10,9 @@ public class SeedToPlant : MonoBehaviour
     public GameObject beeLocation;
 
     public Makechild makeChildScript;
+    public MovingBee movingBeeScript;
+    public BeeFinalLocation beeFinalLocationScript;
+    public AudioEnd audioEndScript;
 
     public bool plantArea;
 
@@ -17,8 +20,9 @@ public class SeedToPlant : MonoBehaviour
     {
         plantArea = false;
         plantAudio.SetActive(false);
-        beeLocation.SetActive(false);
-        makeChildScript.enabled = false;
+        //orginal bee waypoint
+        //beeLocation.SetActive(false);
+        //makeChildScript.enabled = false;
     }
     
     private void OnTriggerEnter(Collider other)
@@ -48,10 +52,15 @@ public class SeedToPlant : MonoBehaviour
     IEnumerator Wait()
     {
         yield return new WaitForSeconds(3);
+        plantAudio.SetActive(true);
         plant.SetActive(true);
         seed.SetActive(false);
-        plantAudio.SetActive(true);
-        beeLocation.SetActive(true);
-        makeChildScript.enabled = true;
+        audioEndScript.enabled = true;
+        movingBeeScript.enabled = false;
+        beeFinalLocationScript.enabled = true;
+
+        //beeLocation.SetActive(true);
+        //makeChildScript.enabled = true;
     }
+
 }
