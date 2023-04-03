@@ -23,7 +23,7 @@ public class ToJamesScene : MonoBehaviour
 
     IEnumerator Wait()
     {
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(2);
         SceneManager.LoadScene("James");
     }
 }
