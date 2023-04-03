@@ -20068,7 +20068,7 @@ GameObject:
   - component: {fileID: 559752220}
   - component: {fileID: 559752219}
   m_Layer: 0
-  m_Name: waternoise
+  m_Name: Water Noise
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20085,7 +20085,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 8f89d0ef38a9bed438740460f3a6c7c8, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 0.609
   m_Pitch: 1
   Loop: 0
@@ -35808,6 +35808,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hail - Soft
       objectReference: {fileID: 0}
+    - target: {fileID: 112158, guid: 308b9676ced52433b9d9674b18bbe16a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 480324, guid: 308b9676ced52433b9d9674b18bbe16a, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -35867,6 +35871,10 @@ PrefabInstance:
     - target: {fileID: 480324, guid: 308b9676ced52433b9d9674b18bbe16a, type: 3}
       propertyPath: m_ConstrainProportionsScale
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 19864176, guid: 308b9676ced52433b9d9674b18bbe16a, type: 3}
+      propertyPath: playOnAwake
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 19864176, guid: 308b9676ced52433b9d9674b18bbe16a, type: 3}
       propertyPath: NoiseModule.enabled
@@ -36877,6 +36885,37 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3b676999c3080f246babb540a35682f5, type: 3}
+--- !u!1 &1016689428
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1016689429}
+  m_Layer: 0
+  m_Name: Spout Up
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1016689429
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1016689428}
+  m_LocalRotation: {x: 0.70441604, y: 0.5, z: -0.06162838, w: 0.5}
+  m_LocalPosition: {x: 0.00268, y: 0.0001, z: 0.00237}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7830935965172257576}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 50, y: 140, z: 90}
 --- !u!1001 &1017543924
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -55919,7 +55958,7 @@ GameObject:
   - component: {fileID: 1523863520}
   - component: {fileID: 1523863519}
   m_Layer: 0
-  m_Name: waterarea
+  m_Name: watertrigger
   m_TagString: Water
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -55934,7 +55973,7 @@ Transform:
   m_GameObject: {fileID: 1523863517}
   m_LocalRotation: {x: 0.6773282, y: -0.20304331, z: 0.20304328, w: 0.6773281}
   m_LocalPosition: {x: 0.00472, y: -0, z: 0.00376}
-  m_LocalScale: {x: 0.005, y: 0.0005000001, z: 0.0005000001}
+  m_LocalScale: {x: 0.005, y: 0.002, z: 0.002}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 7830935965172257576}
@@ -91435,6 +91474,7 @@ GameObject:
   - component: {fileID: 8999949184638625864}
   - component: {fileID: 8999949184638625866}
   - component: {fileID: 8999949184638625867}
+  - component: {fileID: 8999949184638625868}
   m_Layer: 0
   m_Name: Watering can
   m_TagString: Untagged
@@ -91731,6 +91771,7 @@ Transform:
   - {fileID: 375552411}
   - {fileID: 1938242458}
   - {fileID: 559752220}
+  - {fileID: 1016689429}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 90}
@@ -92721,7 +92762,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7486885189803313554}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2d938bf7db52bf4fab731a1c068a17f, type: 3}
   m_Name: 
@@ -92732,6 +92773,75 @@ MonoBehaviour:
     type: 3}
   waternoise: {fileID: 559752218}
   plantArea: 0
+--- !u!114 &8999949184638625868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7486885189803313554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06da0951d20607b4eb43dae618f0e006, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Threshold: 0.506
+  m_Target: {fileID: 1016689429}
+  m_UpSource: {fileID: 0}
+  m_OnBegin:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1938242460}
+        m_TargetAssemblyTypeName: UnityEngine.ParticleSystem, UnityEngine
+        m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 559752219}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  m_OnEnd:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1938242460}
+        m_TargetAssemblyTypeName: UnityEngine.ParticleSystem, UnityEngine
+        m_MethodName: Stop
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 559752219}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: Stop
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &9049600715026828984
 GameObject:
   m_ObjectHideFlags: 0
