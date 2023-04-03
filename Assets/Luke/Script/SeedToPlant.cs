@@ -15,9 +15,11 @@ public class SeedToPlant : MonoBehaviour
     public AudioEnd audioEndScript;
 
     public bool plantArea;
+    public bool alreadyPlant;
 
     private void Start()
     {
+        alreadyPlant = false;
         plantArea = false;
         plantAudio.SetActive(false);
         //orginal bee waypoint
@@ -38,8 +40,17 @@ public class SeedToPlant : MonoBehaviour
         {
             if (plantArea == true)
             {
-                //Debug.Log("Water and seed");
-                Plant();
+                if (alreadyPlant == true)
+                {
+                    
+                }
+                if (alreadyPlant == false)
+                {
+                    //Debug.Log("Water and seed");
+                    alreadyPlant = true;
+                    Plant();
+                }
+                
             }
         }
     }
