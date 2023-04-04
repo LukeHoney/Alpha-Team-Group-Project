@@ -19,7 +19,8 @@ In the Scene "Bee Adventure," you take on the role of a busy bee, whose primary 
 ## :paintbrush: Created by:
 ### Luke Honey
 ### James Mead
-### Antaine Burt
+### Benadict Joseph
+### Caitlin Brockway
 #
 ## :computer: Tested on:
 ### Unity Version: 2021.3.11f1 tested on Acer laptop Nitro 5 and Oculus/ Meta Quest 2
