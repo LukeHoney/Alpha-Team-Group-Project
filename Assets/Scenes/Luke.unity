@@ -3893,6 +3893,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: plate
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: dd7cbde2d87419f41b4c4ce68f440f04,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd7cbde2d87419f41b4c4ce68f440f04, type: 3}
 --- !u!1001 &135394847
@@ -22736,6 +22741,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: plate (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: dd7cbde2d87419f41b4c4ce68f440f04,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd7cbde2d87419f41b4c4ce68f440f04, type: 3}
 --- !u!1 &623544015 stripped
@@ -26803,7 +26813,7 @@ Transform:
   m_GameObject: {fileID: 728197595}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 2.8, z: 0.000015894573}
-  m_LocalScale: {x: 20, y: 5, z: 20}
+  m_LocalScale: {x: 22, y: 5, z: 20}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 41535467839346372}
@@ -27895,6 +27905,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: plate (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: dd7cbde2d87419f41b4c4ce68f440f04,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd7cbde2d87419f41b4c4ce68f440f04, type: 3}
@@ -52117,7 +52132,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.02e-43, y: 0, z: 0, w: -1.4674394e+32}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: -4.79091e-10}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -57798,11 +57813,11 @@ MonoBehaviour:
   m_text: 'Heliotrope:
 
 
-    Loves partial shade, blooms in colours of blue and
-    violet.
+    Loves partial shade, blooms in colours of blue and violet.
 
 
-    Provide nectar for pollinators such as bees.
+    Provide
+    nectar for pollinators such as bees.
 
 
 '
@@ -58637,6 +58652,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: plate (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: dd7cbde2d87419f41b4c4ce68f440f04,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd7cbde2d87419f41b4c4ce68f440f04, type: 3}
