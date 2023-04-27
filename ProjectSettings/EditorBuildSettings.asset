@@ -17,9 +17,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Luke.unity
     guid: aa33661d64d7bdf4d9e458be125e998b
-  - enabled: 1
-    path: Assets/Scenes/Antaine.unity
-    guid: 6115dbd7412d9b14e955402e986e8522
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9d88fadf3c5385c4bb1a0ab14daf4ddd,
       type: 2}
